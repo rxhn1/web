@@ -1,0 +1,1 @@
+web: gunicorn moobot:app --log-file=-
